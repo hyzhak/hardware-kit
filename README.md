@@ -33,3 +33,4 @@
 ## Store
 
 * http://www.gadgetsandgear.com/
+* http://xyzprinting.com/ 3d printers store
