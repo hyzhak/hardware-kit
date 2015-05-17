@@ -24,6 +24,7 @@
 
 * [3ders.org](http://3ders.org/) 3d printers/printings
 * [www.3printr.com](https://www.3printr.com/) (en, de)
+* [3dfe.com](http://3dfe.com/) (ch)
 * [3dprintingfromscratch.com](http://3dprintingfromscratch.com/) News, tutorials, books, prices.
 * [www.i4u.com](http://www.i4u.com/)
 * [www.geeky-gadgets.com](http://www.geeky-gadgets.com/)
