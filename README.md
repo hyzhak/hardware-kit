@@ -34,6 +34,10 @@
 * [www.geeky-gadgets.com](http://www.geeky-gadgets.com/)
 * [www.gadgetify.com](http://www.gadgetify.com/)
 
+## Products
+
+* [gearhungry.com](http://gearhungry.com/) about newborn geek products. Tells about kickstarters companies as well
+
 ## Store
 
 * [www.gadgetsandgear.com](http://www.gadgetsandgear.com/)
