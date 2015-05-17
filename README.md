@@ -4,7 +4,10 @@
 
 ## Accelerators
 
-* http://www.haxlr8r.com/
+* [www.haxlr8r.com](http://www.haxlr8r.com/) 
+
+## Alternative Energy
+* [www.windpowerengineering.com](http://www.windpowerengineering.com/) news, articles ever podcasts about using of windpower
 
 ## Blogs
 
