@@ -20,6 +20,10 @@
 * [robotus.net](http://robotus.net/) (turkish)
 * [letsmakerobots.com](http://letsmakerobots.com/) marketplace, blogs, review
 
+## Hackerspaces
+
+* [www.techshop.ws](http://www.techshop.ws/) hackerspaces in America (for a monthly or annual fee)
+
 ## News
 
 * [3ders.org](http://3ders.org/) 3d printers/printings
