@@ -34,6 +34,8 @@
 
 ## News
 
+* http://3ders.org/ - 3d printers/printings
+
 * http://www.i4u.com/
 
 ![](http://static2.i4u.com/sites/all/themes/i4u/images/global/logo.png)
